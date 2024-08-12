@@ -1,0 +1,53 @@
+---
+sidebar: sidebar 
+permalink: ONTAP/choose-ontap-910-later.html 
+keywords: choose ontap target version, ontap update recommendations, identify ontap target version 
+summary: Comprendi i vantaggi e i rischi di ogni versione di ONTAP prima di aggiornare il tuo sistema storage ONTAP. 
+---
+= Scegliere la versione di destinazione ONTAP 9,10 o successiva
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+Prima di scegliere la versione ONTAP per il sistema di storage, è molto importante identificare i vantaggi e comprendere i rischi associati alla versione di destinazione di ONTAP.
+
+È possibile scegliere la versione di destinazione e confrontarla con la versione corrente per comprendere i vantaggi derivanti dall'aggiornamento alla versione specifica su ONTAP. Potete anche vedere i rischi che saranno risolti e i nuovi rischi (se esistenti) che sorgeranno all'aggiornamento alla specifica versione di ONTAP.
+
+
+NOTE: È possibile utilizzare questa funzione solo se si utilizza ONTAP 9,10 o versioni successive.
+
+.Fasi
+. Dal menu di navigazione BlueXP  sinistro, selezionare *integrità > aggiornamenti software*.
++
+Viene visualizzato l'elenco dei cluster che richiedono un aggiornamento software. È possibile effettuare l'aggiornamento alla versione di destinazione consigliata o scegliere un'altra versione.
+
+
+
+|===
+| Se... | Eseguire questa operazione... 
+
+
+ a| 
+Si desidera aggiornare alla versione consigliata
+ a| 
+. Nella colonna *versione di destinazione*, fare clic su *Confronta versioni* per visualizzare i vantaggi delle funzioni e i rischi derivanti dall'aggiornamento alla versione ONTAP consigliata.
+. Selezionare e visualizzare le informazioni sui rischi che verranno risolti, sui rischi che continueranno a rimanere e sui nuovi rischi che verranno introdotti dopo l'aggiornamento.
+. In alternativa, fare clic su *Download update plan* (Scarica piano di aggiornamento) per scaricare una copia del piano di aggiornamento.
+. Fare clic su *Avvia aggiornamento* per avviare il processo di aggiornamento.
+
+
+
+
+ a| 
+Scegliere un'altra versione
+ a| 
+. Nella colonna *versione di destinazione*, fare clic sul menu a discesa e selezionare *Scegli altre versioni*.
+. Selezionare la versione per visualizzare i vantaggi e i rischi delle funzioni.
+. Selezionare e visualizzare le informazioni sui rischi che verranno risolti, sui rischi che continueranno a rimanere e sui nuovi rischi che verranno introdotti dopo l'aggiornamento.
+. In alternativa, fare clic su *Download update plan* (Scarica piano di aggiornamento) per scaricare una copia del piano di aggiornamento.
+. Fare clic su *Avvia aggiornamento* per avviare il processo di aggiornamento.
+
+
+|===

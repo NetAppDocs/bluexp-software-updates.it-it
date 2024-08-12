@@ -1,0 +1,22 @@
+---
+sidebar: sidebar 
+permalink: ONTAP/validate-storage-system-update.html 
+keywords: validate status of ontap update, track status of ontap update 
+summary: 'Verificare lo stato dell"aggiornamento ONTAP per decidere le fasi successive da eseguire.' 
+---
+= Verificare lo stato dell'aggiornamento del sistema storage ONTAP
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+Al termine del processo di aggiornamento di ONTAP, è necessario controllare lo stato dell'aggiornamento di ONTAP.
+
+.Fasi
+. Dal menu di navigazione BlueXP  sinistro, selezionare *integrità > aggiornamenti software*.
+. Fare clic sulla scheda *Cronologia* per visualizzare lo stato dell'aggiornamento di ONTAP.
+
+
+
+NOTE: Sono necessarie da 2 a 3 ore affinché il cluster rifletta nella scheda History (Cronologia).

@@ -1,0 +1,38 @@
+---
+sidebar: sidebar 
+permalink: get-started/software-updates-faq.html 
+keywords: ontap update faq, ontap update frequently asked questions, software updates faq, software updates frequently asked questions 
+summary: Visualizzare le risposte alle domande frequenti sugli aggiornamenti software BlueXP . 
+---
+= Domande frequenti sugli aggiornamenti software BlueXP 
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+Queste FAQ possono essere utili se stai cercando una risposta rapida a una domanda.
+
+*Qual è l'URL di aggiornamento del software BlueXP ?*
+
+Per l'URL, in un browser, immettere: https://console.bluexp.netapp.com/["https://console.bluexp.netapp.com/"^] Per accedere alla console BlueXP .
+
+*È necessaria una licenza per utilizzare gli aggiornamenti software di BlueXP ?*
+
+Non è richiesto un file di licenza NetApp (NLF).
+
+*Perché non riesco a visualizzare il cluster nella scheda della cronologia anche dopo aver aggiornato la versione ONTAP del cluster?*
+
+Sono necessarie da 2 a 3 ore per la visualizzazione del cluster nella scheda History (Cronologia). Una volta aggiornata la versione ONTAP del cluster, viene generato AutoSupport. Sono necessarie da 2 a 3 ore per elaborare i dati AutoSupport e riflettere l'ultima versione di ONTAP.
+
+*Perché vedo la versione precedente di ONTAP nella dashboard degli aggiornamenti software anche dopo aver aggiornato la versione ONTAP del cluster?*
+
+Sono necessarie da 2 a 3 ore per la visualizzazione del cluster nella scheda History (Cronologia). Una volta aggiornata la versione ONTAP del cluster, viene generato AutoSupport. Sono necessarie da 2 a 3 ore per elaborare i dati AutoSupport e riflettere l'ultima versione di ONTAP.
+
+*Perché vedo diverse schermate per diversi aggiornamenti?*
+
+Ciò è dovuto alla versione corrente di ONTAP e alla mancata disponibilità del connettore BlueXP  per i cluster. BlueXP  Connector esegue l'aggiornamento ONTAP all'interno di BlueXP  e non richiede di uscire da BlueXP  per un aggiornamento. Per informazioni sul processo di aggiornamento di ONTAP per diverse versioni di ONTAP, vedere link:https://docs.netapp.com/us-en/bluexp-software-updates/get-started/software-updates.html["Sistemi ONTAP supportati"].
+
+*Cosa devo fare per scoprire i cluster?*
+
+Per eseguire l'aggiornamento del ONTAP per il cluster desiderato, sono necessari l'IP del cluster ONTAP e le credenziali di amministratore per la connessione al cluster. Nell'ambito del rilevamento dei cluster, è necessario fornire tali informazioni in modo che l'update del ONTAP possa essere eseguito automaticamente.
