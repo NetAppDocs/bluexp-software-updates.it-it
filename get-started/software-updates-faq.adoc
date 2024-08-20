@@ -31,7 +31,7 @@ Sono necessarie da 2 a 3 ore per la visualizzazione del cluster nella scheda His
 
 *Perché vedo diverse schermate per diversi aggiornamenti?*
 
-Ciò è dovuto alla versione corrente di ONTAP e alla mancata disponibilità del connettore BlueXP  per i cluster. BlueXP  Connector esegue l'aggiornamento ONTAP all'interno di BlueXP  e non richiede di uscire da BlueXP  per un aggiornamento. Per informazioni sul processo di aggiornamento di ONTAP per diverse versioni di ONTAP, vedere link:https://docs.netapp.com/us-en/bluexp-software-updates/get-started/software-updates.html["Sistemi ONTAP supportati"].
+Ciò è dovuto alla versione corrente di ONTAP e alla mancata disponibilità del connettore BlueXP  per i cluster. BlueXP  Connector esegue l'aggiornamento ONTAP all'interno di BlueXP  e non richiede di uscire da BlueXP  per un aggiornamento. Se non disponi di un connettore BlueXP , verrai reindirizzato a System Manager e ti verrà richiesto di inserire nuovamente le credenziali del cluster ONTAP. Per informazioni sul processo di aggiornamento di ONTAP per diverse versioni di ONTAP, vedere link:https://docs.netapp.com/us-en/bluexp-software-updates/get-started/software-updates.html["Sistemi ONTAP supportati"].
 
 *Cosa devo fare per scoprire i cluster?*
 

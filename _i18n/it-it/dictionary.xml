@@ -100,7 +100,6 @@
   <block id="fb1a576523e6d98a2637113b1f2ddc77" category="paragraph">*Perché vedo la versione precedente di ONTAP nella dashboard degli aggiornamenti software anche dopo aver aggiornato la versione ONTAP del cluster?*</block>
   <block id="cd7a9b3aab856990de5540e448854d37" category="paragraph">*Perché vedo diverse schermate per diversi aggiornamenti?*</block>
   <block id="696fbf3ecd0e89c737f9c5b7adddfb8e" category="inline-link-macro">Sistemi ONTAP supportati</block>
-  <block id="9acf8bc64d0336944e98a10c4b868c28" category="paragraph">Ciò è dovuto alla versione corrente di ONTAP e alla mancata disponibilità del connettore BlueXP  per i cluster. BlueXP  Connector esegue l'aggiornamento ONTAP all'interno di BlueXP  e non richiede di uscire da BlueXP  per un aggiornamento. Per informazioni sul processo di aggiornamento di ONTAP per diverse versioni di ONTAP, vedere <block ref="9368a1ed7fc94ef1fa0dd54dc646113b" category="inline-link-macro-rx"></block>.</block>
   <block id="301053661b8bcb5b62150d8c97038d47" category="paragraph">*Cosa devo fare per scoprire i cluster?*</block>
   <block id="78a404dc6fcc27f5f6c067b96fa1a926" category="paragraph">Per eseguire l'aggiornamento del ONTAP per il cluster desiderato, sono necessari l'IP del cluster ONTAP e le credenziali di amministratore per la connessione al cluster. Nell'ambito del rilevamento dei cluster, è necessario fornire tali informazioni in modo che l'update del ONTAP possa essere eseguito automaticamente.</block>
   <block id="eae99a51790faa39ba0454fb4f00a5b8" category="summary">Aggiorna senza problemi il tuo sistema storage ONTAP per sfruttare le nuove e migliorate funzioni utilizzando gli aggiornamenti software BlueXP .</block>
@@ -337,4 +336,5 @@
   <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">Note di rilascio</block>
   <block id="33871b6190a8d5adbe8b15282054766c" category="sidebar">Novità</block>
   <block id="0adc03eac86772ad2c75c8f140be417e" category="sidebar">Conoscenza e supporto</block>
+  <block id="e9286f8f31c5b4b57dc1c4b27396c2bf" category="paragraph">Ciò è dovuto alla versione corrente di ONTAP e alla mancata disponibilità del connettore BlueXP  per i cluster. BlueXP  Connector esegue l'aggiornamento ONTAP all'interno di BlueXP  e non richiede di uscire da BlueXP  per un aggiornamento. Se non disponi di un connettore BlueXP , verrai reindirizzato a System Manager e ti verrà richiesto di inserire nuovamente le credenziali del cluster ONTAP. Per informazioni sul processo di aggiornamento di ONTAP per diverse versioni di ONTAP, vedere <block ref="9368a1ed7fc94ef1fa0dd54dc646113b" category="inline-link-macro-rx"></block>.</block>
 </blocks>
