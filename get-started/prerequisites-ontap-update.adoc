@@ -15,8 +15,8 @@ Inizia verificando la preparazione del tuo ambiente operativo, dell'accesso, del
 
 Per utilizzare gli aggiornamenti software BlueXP , è necessario assicurarsi che l'ambiente soddisfi tutti i requisiti.
 
-* Dovrebbe essere disponibile un account BlueXP  valido.
-* L'ambiente di lavoro è impostato in BlueXP .
+* È disponibile un'organizzazione BlueXP .
+* In BlueXP  viene creato un ambiente di lavoro.
 * Administrator Privileges è disponibile per eseguire l'aggiornamento del software utilizzando Gestione sistema.
 * Le credenziali di amministratore sono disponibili per il cluster desiderato durante l'esecuzione dell'aggiornamento software.
 * Tutti i nodi nel cluster inviano dati AutoSupport.
