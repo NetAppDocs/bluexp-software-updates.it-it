@@ -155,7 +155,6 @@
   <block id="a262e6e8b2140ed65b4662f6ea3826e9" category="section-title">Aggiornamento ONTAP</block>
   <block id="bfcca17c4ea8c7320a1a54960ce35444" category="paragraph">Il servizio di aggiornamenti software di BlueXP  offre agli utenti un'esperienza di aggiornamento senza problemi, riducendo i rischi e garantendo ai clienti la possibilità di sfruttare appieno le funzionalità di ONTAP.</block>
   <block id="8e28797de414b72e6beab6ed5932133f" category="inline-link-macro">Aggiornamenti software BlueXP </block>
-  <block id="3b51dbc206ff39db31b586cff27b62b6" category="paragraph">Ulteriori informazioni su <block ref="5932964ef1a5389f9863c988396d1e93" category="inline-link-macro-rx"></block>.</block>
   <block id="c9df4195a305212ffd7b56d24f67129d" category="summary">NetApp fornisce supporto per BlueXP in diversi modi. Sono disponibili opzioni complete di supporto autonomo gratuito 24 ore su 24, 7 giorni su 7, come articoli della knowledge base (KB) e un forum della community. La registrazione al supporto include il supporto tecnico remoto via web ticketing.</block>
   <block id="fabfc25ef8996fd90836e58a4c0b26b6" category="doc">Richiedi assistenza</block>
   <block id="7c5661ab6b39ee901cea00a6e7020a49" category="paragraph">NetApp fornisce supporto per BlueXP e i suoi servizi cloud in diversi modi. Sono disponibili opzioni complete di supporto autonomo gratuito 24 ore su 24, 7 giorni su 7, come articoli della knowledge base (KB) e un forum della community. La registrazione al supporto include il supporto tecnico remoto via web ticketing.</block>
@@ -337,4 +336,5 @@
   <block id="0ca08a23718c0a91743dd6c0146ca353" category="paragraph">È necessario associare le credenziali del sito di supporto NetApp alla propria organizzazione BlueXP  per abilitare i seguenti flussi di lavoro chiave per Cloud Volumes ONTAP:</block>
   <block id="c81c8e01f5d906ae1ab0c5c606f06b05" category="paragraph">L'associazione delle credenziali NSS all'organizzazione BlueXP  è diversa dall'account NSS associato a un accesso utente BlueXP .</block>
   <block id="8166996cb4a59c147200d89a061bb49c" category="paragraph">Queste credenziali NSS sono associate all'ID organizzazione BlueXP  specifico dell'utente. Gli utenti che appartengono all'organizzazione BlueXP  possono accedere a queste credenziali da *supporto &gt; Gestione NSS*.</block>
+  <block id="cf3625b0846a5497dd36ab2220da602a" category="paragraph">Ulteriori informazioni su <block ref="4ef0c81e219f07a508ae115770245e4e" category="inline-link-macro-rx"></block>.</block>
 </blocks>
