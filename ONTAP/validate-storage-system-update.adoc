@@ -11,7 +11,7 @@ summary: 'Verificare lo stato dell"aggiornamento ONTAP per decidere le fasi succ
 
 
 [role="lead"]
-Al termine del processo di aggiornamento di ONTAP, è necessario controllare lo stato dell'aggiornamento di ONTAP.
+È possibile utilizzare gli aggiornamenti software di BlueXP  per convalidare lo stato dell'aggiornamento di ONTAP.
 
 .Fasi
 . Dal menu di navigazione BlueXP  sinistro, selezionare *integrità > aggiornamenti software*.

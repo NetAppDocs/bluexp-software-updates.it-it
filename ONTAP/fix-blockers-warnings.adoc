@@ -4,7 +4,7 @@ permalink: ONTAP/fix-blockers-warnings.html
 keywords: fix ontap blockers and warnings, ontap update precheck, acknowledge warnings 
 summary: 'Correggere i blocchi ONTAP e confermare gli avvisi che impediscono di completare l"aggiornamento ONTAP.' 
 ---
-= Correggere e riconoscere i blocchi ONTAP
+= Correggere tutti i blocchi utilizzando gli aggiornamenti del software BlueXP  prima di un aggiornamento di ONTAP
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/
@@ -20,7 +20,7 @@ La correzione e la conferma di tutti i blocchi è obbligatoria e garantisce un p
 +
 Viene visualizzato l'elenco dei cluster che richiedono un aggiornamento software.
 
-. Identifica la versione di destinazione di ONTAP per il tuo sistema storage. Per informazioni sull'identificazione della versione di destinazione di ONTAP, vedere link:../ONTAP/choose-ontap-910-later.html["Scegliere la versione di destinazione ONTAP 9,10 o successiva"].
+. Identifica la versione di destinazione di ONTAP per il tuo sistema storage. Per informazioni sull'identificazione della versione di destinazione di ONTAP, vedere link:../ONTAP/choose-ontap-910-later.html["Confrontare le versioni di ONTAP per comprendere i vantaggi e i rischi derivanti dall'uso degli aggiornamenti software di BlueXP "].
 . Dopo aver deciso la versione di destinazione di ONTAP, fare clic su *prepara per l'aggiornamento* per avviare il processo di aggiornamento.
 +
 Viene visualizzato l'elenco dei blocchi e delle avvertenze.

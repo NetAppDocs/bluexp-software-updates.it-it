@@ -2,7 +2,6 @@
 <blocks>
   <block id="f6f16bb8e1efb9727b0dcf9a90373ffb" category="summary">Comprendi i vantaggi e i rischi di ogni versione di ONTAP prima di aggiornare il tuo sistema storage ONTAP.</block>
   <block id="3e01b70f098c97a8e8c6a729636b23d4" category="doc">Scegliere la versione di destinazione ONTAP 9,10 o successiva</block>
-  <block id="b1a7397c6fa96ca3e42a2fb189b81d51" category="paragraph">Prima di scegliere la versione ONTAP per il sistema di storage, è molto importante identificare i vantaggi e comprendere i rischi associati alla versione di destinazione di ONTAP.</block>
   <block id="0634e55ef28524df4ddd4c1ddfd72bdd" category="paragraph">È possibile scegliere la versione di destinazione e confrontarla con la versione corrente per comprendere i vantaggi derivanti dall'aggiornamento alla versione specifica su ONTAP. Potete anche vedere i rischi che saranno risolti e i nuovi rischi (se esistenti) che sorgeranno all'aggiornamento alla specifica versione di ONTAP.</block>
   <block id="74083ab8069d07080edb25320474b13b" category="admonition">È possibile utilizzare questa funzione solo se si utilizza ONTAP 9,10 o versioni successive.</block>
   <block id="f3a29486bed19a90f2da6d007818b427" category="list-title">Fasi</block>
@@ -24,7 +23,6 @@
   <block id="7d73325ccb71b4870e81c3c8734ba56e" category="paragraph">Dopo aver identificato la versione di destinazione di ONTAP per il sistema di storage ONTAP, è necessario correggere e riconoscere tutti i blocchi e rivedere gli avvisi prima di aggiornare il sistema di storage ONTAP.</block>
   <block id="2458f462c36fbeec4b6536099135f298" category="paragraph">La correzione e la conferma di tutti i blocchi è obbligatoria e garantisce un processo di aggiornamento del software senza interruzioni.</block>
   <block id="a710a4a4b33a19ce9678b290e8622101" category="paragraph">Viene visualizzato l'elenco dei cluster che richiedono un aggiornamento software.</block>
-  <block id="e11cab9533afda7fed240f31c60b96f3" category="list-text">Identifica la versione di destinazione di ONTAP per il tuo sistema storage. Per informazioni sull'identificazione della versione di destinazione di ONTAP, vedere <block ref="538e53c5274334201439b22929ae7c33" category="inline-link-macro-rx"></block>.</block>
   <block id="06cd15ffbdad395f54961af4b4da3f7d" category="list-text">Dopo aver deciso la versione di destinazione di ONTAP, fare clic su *prepara per l'aggiornamento* per avviare il processo di aggiornamento.</block>
   <block id="921328cf9f5d7f1029ee8f2b5eb6add6" category="paragraph">Viene visualizzato l'elenco dei blocchi e delle avvertenze.</block>
   <block id="0d3e45ea704fa7abdf905562392b0203" category="list-text">Selezionare il blocco per visualizzare le istruzioni per correggere il blocco.</block>
@@ -36,29 +34,22 @@
   <block id="5143d195cc41390e0e4722e37a8b670d" category="list-text">Fare clic su *continua per aggiornare* per procedere con il processo di aggiornamento.</block>
   <block id="0fd40a88a795a27afa35dc3e7dbce97c" category="summary">Aggiorna il tuo sistema di storage ONTAP per sfruttare le nuove e migliorate funzioni.</block>
   <block id="ef54c6082f1b8fb3ea432a9b7cdce377" category="doc">Aggiornamento completo del sistema storage ONTAP</block>
-  <block id="4069d368e6b24c7032f0eedc33a1601d" category="paragraph">Dopo aver identificato la versione di destinazione di ONTAP, corretto e riconosciuto tutti i blocchi, è possibile completare l'aggiornamento del sistema di storage ONTAP.</block>
-  <block id="5095c7afe8ce77fcc7b92f22c350fe82" category="list-text">Correggere e riconoscere i blocchi ONTAP. Per informazioni sul fissaggio dei blocchi, vedere <block ref="d61905fe2b2d7d79294414b81cd336cb" category="inline-link-macro-rx"></block>.</block>
   <block id="84159d0a25239d2d4573172d023c46e7" category="list-text">Leggere e accettare il contratto di licenza per l'utente finale.</block>
   <block id="7e6935bb4ba08bd2b040fec7140cefe8" category="paragraph">Attendere il recupero dell'immagine ONTAP.</block>
   <block id="b707a048aebf6a3d5685827572cc3de1" category="list-text">Fare clic su *Installa aggiornamento* per completare il processo di aggiornamento.</block>
   <block id="2086b43ba817368b623c8b845f4a2c86" category="summary">Verificare lo stato dell'aggiornamento ONTAP per decidere le fasi successive da eseguire.</block>
   <block id="2cffa96ea0fb9d5b545b8cc40a61d4a3" category="doc">Verificare lo stato dell'aggiornamento del sistema storage ONTAP</block>
-  <block id="7735ef900b37ebdc5493537c82501786" category="paragraph">Al termine del processo di aggiornamento di ONTAP, è necessario controllare lo stato dell'aggiornamento di ONTAP.</block>
   <block id="82eb3f6374cb74069e9ac86a78c4c7b7" category="list-text">Fare clic sulla scheda *Cronologia* per visualizzare lo stato dell'aggiornamento di ONTAP.</block>
   <block id="0ca4b31fab05c7c65ce3168c99116299" category="admonition">Sono necessarie da 2 a 3 ore affinché il cluster rifletta nella scheda History (Cronologia).</block>
   <block id="f01ff61f665dc565b36723f4f7ba7acb" category="summary">Accedere al servizio aggiornamenti software BlueXP .</block>
   <block id="620719f65d1fb1b1420157fab1aa5208" category="doc">Accedere agli aggiornamenti software BlueXP </block>
-  <block id="1686b410540845de1f8283165293bd1a" category="paragraph">È possibile utilizzare gli aggiornamenti software di BlueXP  accedendo a NetApp BlueXP .</block>
   <block id="8e917942a77709dfd28c155f42a97553" category="inline-link-macro">Scopri di più sull'accesso</block>
-  <block id="315c997f74955c2a02119a24a36df47e" category="paragraph">Per accedere a BlueXP, puoi utilizzare le credenziali del sito di supporto NetApp oppure iscriverti per un login cloud NetApp utilizzando la tua email e una password. <block ref="b81c2771e4fb9546e28e2b4e920d2ca5" category="inline-link-macro-rx"></block>.</block>
   <block id="5975f7e9036c78e6217b16f295f0ca75" category="inline-link-macro">Console BlueXP</block>
   <block id="5d97159a9457a24e7a43d040b2d4b33f" category="list-text">Aprire un browser Web e accedere a <block ref="046fd603b18837f482287e5ec741e5ed" category="inline-link-macro-rx"></block>.</block>
   <block id="753e3c2055278365db83b605f29d4860" category="paragraph">Viene visualizzata la pagina di accesso a NetApp BlueXP.</block>
   <block id="ad84736d27b7f84414783598f4ffd0d9" category="list-text">Accedere a BlueXP.</block>
   <block id="24958f1bc0c9e80abac7daea72c06854" category="list-text">Dal menu di navigazione BlueXP  sinistro, selezionare *integrità &gt; aggiornamenti software.*</block>
   <block id="20b41c007263bf3cb834352319595be6" category="summary">Esaminare i prerequisiti e i requisiti prima di procedere con l'aggiornamento di ONTAP.</block>
-  <block id="c68f0236667091f737bdf862786b96a8" category="doc">Prerequisiti per aggiornare ONTAP utilizzando gli aggiornamenti software BlueXP </block>
-  <block id="84804abf3404a430e85ae3299587a6b0" category="paragraph">Inizia verificando la preparazione del tuo ambiente operativo, dell'accesso, dell'accesso alla rete e del browser Web.</block>
   <block id="7efc4f28b854970100677afdf18e3743" category="paragraph">Per utilizzare gli aggiornamenti software BlueXP , è necessario assicurarsi che l'ambiente soddisfi tutti i requisiti.</block>
   <block id="f79a5712ad4df34137efe352ad13262f" category="list-text">Administrator Privileges è disponibile per eseguire l'aggiornamento del software utilizzando Gestione sistema.</block>
   <block id="0a97d1300ce9361165541c64b6bd10b7" category="list-text">Le credenziali di amministratore sono disponibili per il cluster desiderato durante l'esecuzione dell'aggiornamento software.</block>
@@ -67,7 +58,6 @@
   <block id="8cb2d0d931dcf081c2e6cdb9235d0efa" category="list-text">I nodi non devono trovarsi in una configurazione MetroCluster.</block>
   <block id="2dc7ae12158353c62d51898b1414574d" category="summary">Inizia ad aggiornare il tuo sistema storage ONTAP in modo rapido e senza problemi.</block>
   <block id="53e01f87a36e506053f9d6c3a230df29" category="doc">Avvio rapido per aggiornare ONTAP utilizzando gli aggiornamenti software BlueXP </block>
-  <block id="573c9d215bcc8c1dc02e08dfd5d679ec" category="paragraph">Di seguito è riportata una panoramica dei passaggi necessari per iniziare a utilizzare gli aggiornamenti software di BlueXP . I collegamenti all'interno di ogni passaggio consentono di accedere a una pagina che fornisce ulteriori dettagli.</block>
   <block id="06c2cea18679d64399783748fa367bdd" category="inline-image-macro">Uno</block>
   <block id="a2d56436fc6737079209e6c74380c5fb" category="paragraph-title"><block ref="58f667aaf05f87159670e12bd9bc076b" category="inline-image-macro-rx" type="image"></block> Esaminare i prerequisiti</block>
   <block id="d73fd850784e1d8dbda69ab3ca51e7cf" category="inline-link-macro">Assicurati che il tuo ambiente soddisfi questi requisiti</block>
@@ -87,7 +77,6 @@
   <block id="20d07d8fbe66f0a93aa19234a6281583" category="paragraph"><block ref="64ffd4ac1c7206890e581f7b5a3f2be9" category="inline-link-macro-rx"></block>.</block>
   <block id="b272f27e62779943682f53ea50ac3fd5" category="summary">Visualizzare le risposte alle domande frequenti sugli aggiornamenti software BlueXP .</block>
   <block id="9f908c51aaf72b8fdb723584bba658d1" category="doc">Domande frequenti sugli aggiornamenti software BlueXP </block>
-  <block id="b1151aae9531d2f5e85d085e8878cea6" category="paragraph">Queste FAQ possono essere utili se stai cercando una risposta rapida a una domanda.</block>
   <block id="e56ded8fd48409401c6fff468729d8a6" category="paragraph">*Qual è l'URL di aggiornamento del software BlueXP ?*</block>
   <block id="942a771213d3b59ba27960f61d97b1ac" category="inline-link"><block ref="942a771213d3b59ba27960f61d97b1ac" category="inline-link-rx"></block></block>
   <block id="97196dcbb301c06780e3699ce570a095" category="paragraph">Per l'URL, in un browser, immettere:<block ref="6db7b50bf17b27cbede9f07c4fbc973e" category="inline-link-rx"></block> Per accedere alla console BlueXP .</block>
@@ -102,8 +91,6 @@
   <block id="78a404dc6fcc27f5f6c067b96fa1a926" category="paragraph">Per eseguire l'aggiornamento del ONTAP per il cluster desiderato, sono necessari l'IP del cluster ONTAP e le credenziali di amministratore per la connessione al cluster. Nell'ambito del rilevamento dei cluster, è necessario fornire tali informazioni in modo che l'update del ONTAP possa essere eseguito automaticamente.</block>
   <block id="eae99a51790faa39ba0454fb4f00a5b8" category="summary">Aggiorna senza problemi il tuo sistema storage ONTAP per sfruttare le nuove e migliorate funzioni utilizzando gli aggiornamenti software BlueXP .</block>
   <block id="4a4ca306c87f7718653f5a8ebca8584c" category="doc">Ulteriori informazioni sugli aggiornamenti software BlueXP </block>
-  <block id="4baad46ac6519d24a604d0592262d3a2" category="paragraph">È possibile aggiornare il sistema di storage ONTAP per sfruttare le nuove e migliorate funzioni mediante gli aggiornamenti software BlueXP . Ciò può aiutarti a ridurre i costi, accelerare i carichi di lavoro critici e migliorare la sicurezza.</block>
-  <block id="140dd9258bb13766fefc6da02514ad8e" category="paragraph">Il servizio di aggiornamenti software BlueXP  consente ai clienti di ottimizzare gli aggiornamenti ONTAP. Automatizza i processi di valutazione, pianificazione ed esecuzione. Il consulente di upgrade intelligente prevede quali versioni si adattano meglio all'ambiente specifico, consigliando le versioni per risolvere i problemi, migliorare l'efficienza e aumentare la sicurezza del sistema, consentendo ai clienti di scegliere l'opzione migliore per soddisfare le loro esigenze. Quindi distribuisce il pacchetto software ed esegue automaticamente l'aggiornamento non distributivo automatizzato (ANDU), indipendente dai servizi di supporto.</block>
   <block id="933247e0be7796a309cfa4c95bd34938" category="section-title">Sistemi supportati</block>
   <block id="1a326a008d82e9276c86382d2622dbc4" category="section-title">Sistemi ONTAP</block>
   <block id="ce2747e858185215705d6b23a84eab2b" category="paragraph">È possibile completare l'aggiornamento di ONTAP utilizzando il servizio aggiornamenti software di BlueXP  solo se si utilizza ONTAP 9,10 o versioni successive.</block>
@@ -315,10 +302,7 @@
   <block id="ad203e818e0c9d7f42f1c260b33875f3" category="sidebar">Webinar sul cloud</block>
   <block id="bd10fd9cd73654d01bc6a7719a4f03c3" category="sidebar">Documentazione di aggiornamento del software BlueXP </block>
   <block id="2b973f41c5b1f5465e41113e137d7a93" category="sidebar">Utilizzare gli aggiornamenti software BlueXP </block>
-  <block id="c875e3d623333d854efa96be52543e6c" category="sidebar">Scegliere la versione di destinazione di ONTAP</block>
   <block id="49ec4b514e47d3aeca96090e2282a2b0" category="sidebar">Correggere il blocco ONTAP e confermare gli avvisi</block>
-  <block id="043756462732d85786f9ee8ff131baeb" category="sidebar">Inizia subito con gli aggiornamenti di ONTAP</block>
-  <block id="cfa9378dd942a8238f797353b6dd5400" category="sidebar">Ulteriori informazioni sugli aggiornamenti di ONTAP</block>
   <block id="483a5da192f46e3cfe8391d3ef234fc4" category="sidebar">FAQ</block>
   <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">Note di rilascio</block>
   <block id="33871b6190a8d5adbe8b15282054766c" category="sidebar">Novità</block>
@@ -337,4 +321,24 @@
   <block id="c81c8e01f5d906ae1ab0c5c606f06b05" category="paragraph">L'associazione delle credenziali NSS all'organizzazione BlueXP  è diversa dall'account NSS associato a un accesso utente BlueXP .</block>
   <block id="8166996cb4a59c147200d89a061bb49c" category="paragraph">Queste credenziali NSS sono associate all'ID organizzazione BlueXP  specifico dell'utente. Gli utenti che appartengono all'organizzazione BlueXP  possono accedere a queste credenziali da *supporto &gt; Gestione NSS*.</block>
   <block id="cf3625b0846a5497dd36ab2220da602a" category="paragraph">Ulteriori informazioni su <block ref="4ef0c81e219f07a508ae115770245e4e" category="inline-link-macro-rx"></block>.</block>
+  <block id="dd1f3e550c5e2f4725c15954d3d7ea2d" category="doc">Confrontare le versioni di ONTAP per comprendere i vantaggi e i rischi derivanti dall'uso degli aggiornamenti software di BlueXP </block>
+  <block id="49d68f82813e1841cdc24205608d8fe2" category="paragraph">È molto importante confrontare e comprendere i vantaggi e i rischi associati alla versione di destinazione di ONTAP prima di aggiornare la versione di ONTAP per il sistema storage.</block>
+  <block id="5555018124c02b21b3aaeedcef61f4fa" category="doc">Correggere tutti i blocchi utilizzando gli aggiornamenti del software BlueXP  prima di un aggiornamento di ONTAP</block>
+  <block id="db4b6d19a8d4d57e24b5828d0074143e" category="list-text">Identifica la versione di destinazione di ONTAP per il tuo sistema storage. Per informazioni sull'identificazione della versione di destinazione di ONTAP, vedere <block ref="0f2a258e8994f78c1b1f17d43a16c513" category="inline-link-macro-rx"></block>.</block>
+  <block id="396bf64c6d994d797cb5742c6758418b" category="doc">Avviare l'aggiornamento di ONTAP utilizzando gli aggiornamenti software di BlueXP </block>
+  <block id="0ae470cfcd6da9622bf1c34549a18b77" category="paragraph">Dopo aver identificato la versione di destinazione di ONTAP, corretto e riconosciuto tutti i blocchi, è possibile avviare l'aggiornamento del sistema di storage ONTAP.</block>
+  <block id="a4c20aefa4aa78b722a006d3390ac1cb" category="list-text">Correggere e riconoscere i blocchi ONTAP. Per informazioni sul fissaggio dei blocchi, vedere <block ref="6440b0843592ebb60c718c0b07809cb1" category="inline-link-macro-rx"></block>.</block>
+  <block id="5efd3bb225c7267020da770434ce3d85" category="paragraph">È possibile utilizzare gli aggiornamenti software di BlueXP  per convalidare lo stato dell'aggiornamento di ONTAP.</block>
+  <block id="937f4d5a34565b48f88d86bac89c78f6" category="doc">Accedere agli aggiornamenti del software BlueXP  per aggiornare ONTAP</block>
+  <block id="6c269860f7beec4d28cbb4c480aec401" category="paragraph">Per accedere agli aggiornamenti software BlueXP , è necessario accedere a BlueXP .</block>
+  <block id="257d03ea2eed4050a6e348b424d61c43" category="paragraph">Per effettuare l'accesso, puoi utilizzare le credenziali del sito di supporto NetApp oppure iscriverti a un login cloud NetApp utilizzando la tua email e una password. <block ref="b81c2771e4fb9546e28e2b4e920d2ca5" category="inline-link-macro-rx"></block>.</block>
+  <block id="61f62682b36d6aec10d0e3fdf7b80a02" category="doc">Preparare l'aggiornamento di ONTAP utilizzando gli aggiornamenti software di BlueXP </block>
+  <block id="ceef21d867cd560c99b829957ac7c4ef" category="paragraph">Prima di procedere con l'aggiornamento di ONTAP, è necessario esaminare i prerequisiti e i requisiti. È possibile utilizzare gli aggiornamenti software di BlueXP  per verificare la disponibilità dell'ambiente operativo, dell'accesso, dell'accesso alla rete e del browser Web.</block>
+  <block id="b9055b7fdf4830bba7903d1ea2d1fec7" category="paragraph">Ecco una panoramica dei passaggi necessari per iniziare rapidamente con gli aggiornamenti software BlueXP . I collegamenti all'interno di ogni passaggio consentono di accedere a una pagina che fornisce ulteriori dettagli.</block>
+  <block id="69f33badbace6451069f5a11aff02d64" category="paragraph">Per ulteriori informazioni sugli aggiornamenti software BlueXP  o per richiedere assistenza nella risoluzione dei problemi, è possibile rivedere queste domande per ottenere una risposta rapida.</block>
+  <block id="630082988db3654341e1bbfe1473ff34" category="paragraph">È possibile utilizzare il servizio di aggiornamenti software BlueXP  per consentire ai clienti di ottimizzare gli aggiornamenti ONTAP. Ciò può aiutarti a ridurre i costi, accelerare i carichi di lavoro critici e migliorare la sicurezza.</block>
+  <block id="4bab70d11b4cca2a35de48f534070ddc" category="paragraph">Il servizio di aggiornamenti software BlueXP  automatizza i processi di valutazione, pianificazione ed esecuzione. Il consulente di upgrade intelligente prevede quali versioni si adattano meglio all'ambiente specifico, consigliando le versioni per risolvere i problemi, migliorare l'efficienza e aumentare la sicurezza del sistema, consentendo ai clienti di scegliere l'opzione migliore per soddisfare le loro esigenze. Quindi distribuisce il pacchetto software ed esegue automaticamente l'aggiornamento non distributivo automatizzato (ANDU), indipendente dai servizi di supporto.</block>
+  <block id="dcfbeb8f1660c404fb401cb23dc4a928" category="sidebar">Confrontare le versioni di ONTAP per comprendere i vantaggi e i rischi dell'aggiornamento</block>
+  <block id="4b826e35792ea987dc5df57d49d94c3e" category="sidebar">Avvia l'aggiornamento del sistema storage ONTAP</block>
+  <block id="c979f283726214fd17da9716a48f78f0" category="sidebar">Introduzione agli aggiornamenti software BlueXP </block>
 </blocks>

@@ -4,22 +4,22 @@ permalink: ONTAP/update-storage-system.html
 keywords: update ontap storage system 
 summary: Aggiorna il tuo sistema di storage ONTAP per sfruttare le nuove e migliorate funzioni. 
 ---
-= Aggiornamento completo del sistema storage ONTAP
+= Avviare l'aggiornamento di ONTAP utilizzando gli aggiornamenti software di BlueXP 
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/
 
 
 [role="lead"]
-Dopo aver identificato la versione di destinazione di ONTAP, corretto e riconosciuto tutti i blocchi, è possibile completare l'aggiornamento del sistema di storage ONTAP.
+Dopo aver identificato la versione di destinazione di ONTAP, corretto e riconosciuto tutti i blocchi, è possibile avviare l'aggiornamento del sistema di storage ONTAP.
 
 .Fasi
 . Dal menu di navigazione BlueXP  sinistro, selezionare *integrità > aggiornamenti software*.
 +
 Viene visualizzato l'elenco dei cluster che richiedono un aggiornamento software.
 
-. Identifica la versione di destinazione di ONTAP per il tuo sistema storage. Per informazioni sull'identificazione della versione di destinazione di ONTAP, vedere link:../ONTAP/choose-ontap-910-later.html["Scegliere la versione di destinazione ONTAP 9,10 o successiva"].
-. Correggere e riconoscere i blocchi ONTAP. Per informazioni sul fissaggio dei blocchi, vedere link:../ONTAP/fix-blockers-warnings.html["Correggere e riconoscere i blocchi ONTAP"].
+. Identifica la versione di destinazione di ONTAP per il tuo sistema storage. Per informazioni sull'identificazione della versione di destinazione di ONTAP, vedere link:../ONTAP/choose-ontap-910-later.html["Confrontare le versioni di ONTAP per comprendere i vantaggi e i rischi derivanti dall'uso degli aggiornamenti software di BlueXP "].
+. Correggere e riconoscere i blocchi ONTAP. Per informazioni sul fissaggio dei blocchi, vedere link:../ONTAP/fix-blockers-warnings.html["Correggere tutti i blocchi utilizzando gli aggiornamenti del software BlueXP  prima di un aggiornamento di ONTAP"].
 . Leggere e accettare il contratto di licenza per l'utente finale.
 +
 Attendere il recupero dell'immagine ONTAP.
