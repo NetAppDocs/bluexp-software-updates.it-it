@@ -15,6 +15,16 @@ Scopri le novità degli aggiornamenti software BlueXP .
 
 
 
+== 02 aprile 2025
+
+
+
+=== Rischi mitigati
+
+Nella sezione riepilogativa degli aggiornamenti software BlueXP , è ora possibile visualizzare il numero totale di rischi che possono essere mitigati dall'aggiornamento del sistema operativo. Ciò consente agli utenti di valutare i miglioramenti della sicurezza e della stabilità nella base di installazione.
+
+
+
 == 07 agosto 2024
 
 

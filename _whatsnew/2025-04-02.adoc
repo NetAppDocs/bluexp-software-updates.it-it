@@ -1,0 +1,9 @@
+= Rischi mitigati
+:allow-uri-read: 
+
+
+
+
+=== Rischi mitigati
+
+Nella sezione riepilogativa degli aggiornamenti software BlueXP , è ora possibile visualizzare il numero totale di rischi che possono essere mitigati dall'aggiornamento del sistema operativo. Ciò consente agli utenti di valutare i miglioramenti della sicurezza e della stabilità nella base di installazione.
