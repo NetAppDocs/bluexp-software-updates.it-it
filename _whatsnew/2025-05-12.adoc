@@ -1,0 +1,9 @@
+= Ruolo di accesso BlueXP necessario
+:allow-uri-read: 
+
+
+
+
+=== Ruolo di accesso BlueXP necessario
+
+Ora è necessario uno dei seguenti ruoli di accesso per installare gli aggiornamenti software: *Amministratore organizzazione*, *Amministratore cartella o progetto*, *Amministratore archiviazione*, *Visualizzatore archiviazione* o *Specialista integrità archiviazione*. Gli utenti con il ruolo di Visualizzatore archiviazione dispongono di diverse autorizzazioni relative agli aggiornamenti software, ma non possono installarli. link:https://docs.netapp.com/us-en/bluexp/concept-iam-predefined-roles.html["Scopri di più sui ruoli di accesso BlueXP."^]

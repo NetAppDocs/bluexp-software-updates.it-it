@@ -36,3 +36,5 @@ Ciò è dovuto alla versione corrente di ONTAP e alla mancata disponibilità del
 *Cosa devo fare per scoprire i cluster?*
 
 Per eseguire l'aggiornamento del ONTAP per il cluster desiderato, sono necessari l'IP del cluster ONTAP e le credenziali di amministratore per la connessione al cluster. Nell'ambito del rilevamento dei cluster, è necessario fornire tali informazioni in modo che l'update del ONTAP possa essere eseguito automaticamente.
+
+È inoltre necessario disporre di uno dei seguenti ruoli di accesso: amministratore dell'organizzazione, amministratore della cartella o del progetto oppure amministratore dell'archiviazione.

@@ -13,6 +13,9 @@ summary: 'Verificare lo stato dell"aggiornamento ONTAP per decidere le fasi succ
 [role="lead"]
 È possibile utilizzare gli aggiornamenti software di BlueXP  per convalidare lo stato dell'aggiornamento di ONTAP.
 
+.Ruolo BlueXP richiesto:
+Amministratore dell'organizzazione, amministratore di cartelle o progetti, amministratore di archiviazione, visualizzatore di archiviazione o specialista dell'integrità del sistema. link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html["Scopri di più sui ruoli di accesso BlueXP."^]
+
 .Fasi
 . Dal menu di navigazione BlueXP  sinistro, selezionare *integrità > aggiornamenti software*.
 . Fare clic sulla scheda *Cronologia* per visualizzare lo stato dell'aggiornamento di ONTAP.

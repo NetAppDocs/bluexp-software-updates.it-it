@@ -13,6 +13,9 @@ summary: 'Correggere i blocchi ONTAP e confermare gli avvisi che impediscono di 
 [role="lead"]
 Dopo aver identificato la versione di destinazione di ONTAP per il sistema di storage ONTAP, è necessario correggere e riconoscere tutti i blocchi e rivedere gli avvisi prima di aggiornare il sistema di storage ONTAP.
 
+.Ruolo BlueXP richiesto:
+Amministratore dell'organizzazione, amministratore di cartelle o progetti, amministratore di archiviazione o specialista dell'integrità del sistema. link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html["Scopri di più sui ruoli di accesso BlueXP."^]
+
 La correzione e la conferma di tutti i blocchi è obbligatoria e garantisce un processo di aggiornamento del software senza interruzioni.
 
 .Fasi
@@ -21,19 +24,19 @@ La correzione e la conferma di tutti i blocchi è obbligatoria e garantisce un p
 Viene visualizzato l'elenco dei cluster che richiedono un aggiornamento software.
 
 . Identifica la versione di destinazione di ONTAP per il tuo sistema storage. Per informazioni sull'identificazione della versione di destinazione di ONTAP, vedere link:../ONTAP/choose-ontap-910-later.html["Confrontare le versioni di ONTAP per comprendere i vantaggi e i rischi derivanti dall'uso degli aggiornamenti software di BlueXP "].
-. Dopo aver deciso la versione di destinazione di ONTAP, fare clic su *prepara per l'aggiornamento* per avviare il processo di aggiornamento.
+. Dopo aver scelto la versione di destinazione ONTAP , selezionare *Prepara per l'aggiornamento* per avviare il processo di aggiornamento.
 +
 Viene visualizzato l'elenco dei blocchi e delle avvertenze.
 
 . Selezionare il blocco per visualizzare le istruzioni per correggere il blocco.
 . Eseguire manualmente i passaggi forniti per correggere il blocco.
-. Selezionare i blocchi che sono stati corretti e fare clic su *Conferma selezione* per confermare che i blocchi sono stati corretti.
+. Seleziona i blocchi che sono stati risolti e seleziona *Riconosci selezione* per confermare che i blocchi sono stati risolti.
 
 
 
 NOTE: È necessario correggere e confermare tutti i blocchi per procedere con l'aggiornamento.
 
-. Fare clic sulla scheda *Avvertenze* per rivedere gli avvisi prima di procedere con l'aggiornamento del software.
-. Fare clic sulla scheda *Conferma* per visualizzare i blocchi che sono stati corretti.
-. Fare clic su *continua per aggiornare* per procedere con il processo di aggiornamento.
+. Selezionare la scheda *Avvisi* per leggere gli avvisi prima di procedere con l'aggiornamento software.
+. Selezionare la scheda *Riconosci* per visualizzare i blocchi che sono stati risolti.
+. Selezionare *Continua ad aggiornare* per procedere con il processo di aggiornamento.
 

@@ -13,11 +13,12 @@ summary: 'Esaminare i prerequisiti e i requisiti prima di procedere con l"aggior
 [role="lead"]
 Prima di procedere con l'aggiornamento di ONTAP, è necessario esaminare i prerequisiti e i requisiti. È possibile utilizzare gli aggiornamenti software di BlueXP  per verificare la disponibilità dell'ambiente operativo, dell'accesso, dell'accesso alla rete e del browser Web.
 
+.Ruolo BlueXP richiesto:
+Amministratore dell'organizzazione, amministratore di cartelle o progetti, amministratore di archiviazione, visualizzatore di archiviazione o specialista dell'integrità del sistema. link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html["Scopri di più sui ruoli di accesso BlueXP."^]
+
 Per utilizzare gli aggiornamenti software BlueXP , è necessario assicurarsi che l'ambiente soddisfi tutti i requisiti.
 
-* È disponibile un'organizzazione BlueXP .
 * In BlueXP  viene creato un ambiente di lavoro.
-* Administrator Privileges è disponibile per eseguire l'aggiornamento del software utilizzando Gestione sistema.
 * Le credenziali di amministratore sono disponibili per il cluster desiderato durante l'esecuzione dell'aggiornamento software.
 * Tutti i nodi nel cluster inviano dati AutoSupport.
 * Tutti i nodi devono essere eseguiti su ONTAP 9,10 o versioni successive.
